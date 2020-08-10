@@ -5,4 +5,4 @@ This is a web project. In this I have used html, css and javascript.
 
 ## These are the insites of the website
 
-![](resources/img/Screenshot%20%(39))
+![](resources/img/Screenshot%20(39))
