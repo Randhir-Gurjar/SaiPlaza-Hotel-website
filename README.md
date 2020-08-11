@@ -7,4 +7,4 @@ This is a web project. In this I have used html, css and javascript.
 
 The insight of the page
 
-<img src="Img/homepage.jpg" width="100">
+<img src="Img/homepage.jpg" width="700">
