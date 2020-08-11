@@ -3,6 +3,6 @@
 ## *About* 
 This is a web project. In this I have used html, css and javascript.
 
-## These are the insites of the website
+## These are the insights of the website
 
-The insights of the page
+The insight of the page
